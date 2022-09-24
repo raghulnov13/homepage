@@ -1,0 +1,114 @@
+
+/* header */
+header {
+    background: #0000001A;
+    
+}
+.navbar .navbar-collapse{
+    
+}
+
+
+.navbar .navbar-collapse .navbar-nav{
+    font-size: 15px;
+    
+}
+.navbar .navbar-collapse .navbar-nav .nav-item{
+    
+    
+}
+.navbar .navbar-nav .nav-item .nav-link.active{
+    color: #29AA9B;
+}
+.navbar .navbar-nav {
+    
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    padding: 10px 20px;
+    white-space: nowrap;
+    color: #000000;
+    font-weight: 400;
+    
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    color: #29AA9B;
+}
+.navbar .navbar-nav .btn{
+    background: #29AA9B;
+    border-radius: 2px;
+    color: white;
+    display: inline-block;
+    padding: 3px 8px;
+    white-space: nowrap;
+    
+}
+
+/* home */
+.home{
+    background:#0000001A;
+    padding:30px
+}
+.home h1{
+    color:#707070;
+}
+.home .content{
+    background: #29AA9B;
+    border-radius: 5px;
+    color: white;
+    display: inline-block;
+    padding: 3px 8px;
+    margin-left: 150px;
+}
+.home span{
+    color:#29AA9B
+}
+.home .highlight{
+    margin-top: 30px;
+    background: #29AA9B;
+    border-radius: 5px;
+    color: white;
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 20px;
+    
+}
+
+/* About */
+.about{
+    
+}
+.about img{ 
+
+}
+.about h2{
+    
+}
+.about p{
+    margin:30px 0px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
